@@ -1,3 +1,4 @@
 {
-  "cSpell.words": ["elifesratunca", "toastify"]
+  "cSpell.words": ["elifesratunca", "toastify"],
+  "git.logging.level": "error"
 }
